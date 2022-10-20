@@ -1,0 +1,26 @@
+# Log file
+*.log
+
+# Single Module Project
+/target/
+/bin/
+/build/
+/doc/
+/src/test/resources/passwords.properties
+/test-output/
+/allure-results/
+/.classpath
+/.project
+/reports/
+/.idea/
+/out/
+*.iml
+drivers
+
+# Ignore binary
+/.allure/
+*.bin
+*.exe
+*.xpi
+
+
