@@ -16,6 +16,7 @@
 /out/
 *.iml
 drivers
+configs.properties
 
 # Ignore binary
 /.allure/
